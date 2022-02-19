@@ -3,8 +3,8 @@
 ## ✨ list of contents
 
 - [PERTEMUAN 1 HTML & CSS](https://github.com/Praktikum-PBW/pbw-html-css-1)
-- [PERTEMUAN 2 HTML & CSS](#)
-- [PERTEMUAN 3 JAVASCRIPT DASAR](#)
+- [PERTEMUAN 2 HTML & CSS](https://github.com/Praktikum-PBW/pbw-html-css-2)
+- [PERTEMUAN 3 JAVASCRIPT DASAR](https://github.com/Praktikum-PBW/pbw-js)
 - [PERTEMUAN 4 BOOTSTRAP](#)
 - [PERTEMUAN 5 GITHUB](#)
 - [PERTEMUAN 6 PHP DASAR](#)
