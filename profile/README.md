@@ -98,6 +98,32 @@
 - [AFIVA YUAZIJAH](https://github.com/Praktikum-PBW/4a-tugas-3-afiva-yuazijah)
 - [ANANDITO RAFI PUTRA](https://github.com/Praktikum-PBW/4a-tugas-3-anandito-rafi-putra)
 
+### 📙 Tugas 5
+- [AFIFAH NUR SALLAMAH](https://github.com/Praktikum-PBW/4a-tugas-5-afifah-nur-sallamah)
+- [ANDRIANI NURIAN](https://github.com/Praktikum-PBW/4a-tugas-5-andriani-nurian)
+- [ANISA FITRIANIDA LUTFIAJATI PR](https://github.com/Praktikum-PBW/4a-tugas-5-anisa-fitrianida-lutfiajati-pr)
+- [ASYIFA MAULANA](https://github.com/Praktikum-PBW/4a-tugas-5-asyifa-maulana)
+- [CHINTYA ANA TASYA](https://github.com/Praktikum-PBW/4a-tugas-5-chintya-ana-tasya)
+- [DEDE FITRIYANI](https://github.com/Praktikum-PBW/4a-tugas-5-dede-fitriyani)
+- [ADI SUNANDAR](https://github.com/Praktikum-PBW/4a-tugas-5-adi-sunandar)
+- [ADRIAN AUFARRIZQI](https://github.com/Praktikum-PBW/4a-tugas-5-adrian-aufarrizqi)
+- [ADRIAN WIBISONO](https://github.com/Praktikum-PBW/4a-tugas-5-adrian-wibisono)
+- [ALFIAN VITO ANGGORO](https://github.com/Praktikum-PBW/4a-tugas-5-alfian-vito-anggoro)
+- [ALI DONGAN HARAHAP](https://github.com/Praktikum-PBW/4a-tugas-5-ali-dongan-harahap)
+- [ALIF KARIMULLAH](https://github.com/Praktikum-PBW/4a-tugas-5-alif-karimullah)
+- [ALIFA MAHA RIZKA](https://github.com/Praktikum-PBW/4a-tugas-5-alifa-maha-rizka)
+- [ALMIRA ZAHRA](https://github.com/Praktikum-PBW/4a-tugas-5-almira-zahra)
+- [ALTOLYTO SITANGGANG](https://github.com/Praktikum-PBW/4a-tugas-5-altolyto-sitanggang)
+- [ALVI YUNIAR](https://github.com/Praktikum-PBW/4a-tugas-5-alvi-yuniar)
+- [ANISA NUR HASANAH](https://github.com/Praktikum-PBW/4a-tugas-5-anisa-nur-hasanah)
+- [ANISAH](https://github.com/Praktikum-PBW/4a-tugas-5-anisah)
+- [ANNABELLA DIAN DAMERIA S](https://github.com/Praktikum-PBW/4a-tugas-5-annabella-dian-dameria-s)
+- [JOVANKA SANDRA NATHALIE SILALA](https://github.com/Praktikum-PBW/4a-tugas-5-jovanka-sandra-nathalie-silala)
+- [YOHANES ANJAR DEWANTARA](https://github.com/Praktikum-PBW/4a-tugas-5-yohanes-anjar-dewantara)
+- [ADRIAN RAMADHANI PRI HARYOGA](https://github.com/Praktikum-PBW/4a-tugas-5-adrian-ramadhani-pri-haryoga)
+- [AFIVA YUAZIJAH](https://github.com/Praktikum-PBW/4a-tugas-5-afiva-yuazijah)
+- [ANANDITO RAFI PUTRA](https://github.com/Praktikum-PBW/4a-tugas-5-anandito-rafi-putra)
+
 ## 🏛 Kelas 4B
 
 ### 👤 Absen
