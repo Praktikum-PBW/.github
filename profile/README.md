@@ -265,5 +265,32 @@
 - [DANIEL CLAUS HASIHOLAN NAIBAHO	](https://github.com/Praktikum-PBW/4b-tugas-5-daniel-claus-hasiholan-naibaho)
 - [DWI PUTRA ARDIANSYAH	](https://github.com/Praktikum-PBW/4b-tugas-5-dwi-putra-ardiansyah)
 
+### 📙 Ujian Tengah Semester
+- [FARHAN SAORY	](https://github.com/Praktikum-PBW/4b-uts-farhan-saory)
+- [FATHIMATUZ ZAHRA	](https://github.com/Praktikum-PBW/4b-uts-fathimatuz-zahra)
+- [ILHAM RIZKI NURHUDAYA	](https://github.com/Praktikum-PBW/4b-uts-ilham-rizki-nurhudaya)
+- [INDIRA NUR AMALIA	](https://github.com/Praktikum-PBW/4b-uts-indira-nur-amalia)
+- [IQBAL KURNIAWAN	](https://github.com/Praktikum-PBW/4b-uts-iqbal-kurniawan)
+- [IRFAN MAULANA	](https://github.com/Praktikum-PBW/4b-uts-irfan-maulana)
+- [IRNA PURNAHASANAH	](https://github.com/Praktikum-PBW/4b-uts-irna-purnahasanah)
+- [ANNISA RAHMA PUTRI	](https://github.com/Praktikum-PBW/4b-uts-annisa-rahma-putri)
+- [ARDIANTO NUGROHO	](https://github.com/Praktikum-PBW/4b-uts-ardianto-nugroho)
+- [ARFAN RYO DARMAWAN	](https://github.com/Praktikum-PBW/4b-uts-arfan-ryo-darmawan)
+- [ASSYIFA KHALIF	](https://github.com/Praktikum-PBW/4b-uts-assyifa-khalif)
+- [BAYU WILDAN BAHARI	](https://github.com/Praktikum-PBW/4b-uts-bayu-wildan-bahari)
+- [CAHYA DIANTONI	](https://github.com/Praktikum-PBW/4b-uts-cahya-diantoni)
+- [DAMAREINDRA IHYA ULLUMMUDDIEN	](https://github.com/Praktikum-PBW/4b-uts-damareindra-ihya-ullummuddien)
+- [DELA AMALIYA	](https://github.com/Praktikum-PBW/4b-uts-dela-amaliya)
+- [DELLIA DELTANIA	](https://github.com/Praktikum-PBW/4b-uts-dellia-deltania)
+- [DIKI CANDRA PERMANA YUDA	](https://github.com/Praktikum-PBW/4b-uts-diki-candra-permana-yuda)
+- [ELVIN ALAN PRATAMA	](https://github.com/Praktikum-PBW/4b-uts-elvin-alan-pratama)
+- [FADHILLAH RAMADHAN	](https://github.com/Praktikum-PBW/4b-uts-fadhillah-ramadhan)
+- [FAIZ AGIL FIRMANSYAH	](https://github.com/Praktikum-PBW/4b-uts-faiz-agil-firmansyah)
+- [FAJAR ATHARIQ	](https://github.com/Praktikum-PBW/4b-uts-fajar-athariq)
+- [FAJRI YANTI	](https://github.com/Praktikum-PBW/4b-uts-fajri-yanti)
+- [CHENDRA MUHAMMAD AZHARI SOFYAN	](https://github.com/Praktikum-PBW/4b-uts-chendra-muhammad-azhari-sofyan)
+- [DANIEL CLAUS HASIHOLAN NAIBAHO	](https://github.com/Praktikum-PBW/4b-uts-daniel-claus-hasiholan-naibaho)
+- [DWI PUTRA ARDIANSYAH	](https://github.com/Praktikum-PBW/4b-uts-dwi-putra-ardiansyah)
+
 ## ✨ Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
