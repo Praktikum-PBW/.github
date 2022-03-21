@@ -19,7 +19,7 @@
 - [Absen Pertemuan 4](https://github.com/Praktikum-PBW/4a-absen-pertemuan-4)
 - [Absen Pertemuan 5](https://github.com/Praktikum-PBW/4a-absen-pertemuan-5)
 - [Absen Pertemuan 6](https://github.com/Praktikum-PBW/4a-absen-pertemuan-6)
-- [Absen Pertemuan 6](https://github.com/Praktikum-PBW/4a-absen-pertemuan-7)
+- [Absen Pertemuan 7](https://github.com/Praktikum-PBW/4a-absen-pertemuan-7)
 
 ### 📙 Tugas 1
 - [AFIFAH NUR SALLAMAH](https://github.com/Praktikum-PBW/4a-tugas-1-afifah-nur-sallamah)
