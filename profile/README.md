@@ -151,6 +151,16 @@
 - [AFIVA YUAZIJAH](https://github.com/Praktikum-PBW/4a-uts-afiva-yuazijah)
 - [ANANDITO RAFI PUTRA](https://github.com/Praktikum-PBW/4a-uts-anandito-rafi-putra)
 
+## 👀 Projek Kelompok
+- [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-pemesanan-tiket-kereta-api)
+- [Kelompok 2](https://github.com/Praktikum-PBW/4a-projek-kantin)
+- [Kelompok 3](https://github.com/Praktikum-PBW/4a-projek-tour-travel)
+- [Kelompok 4](https://github.com/Praktikum-PBW/4a-projek-bioskop-online)
+- [Kelompok 5](https://github.com/Praktikum-PBW/4a-projek-inventory)
+- [Kelompok 6](https://github.com/Praktikum-PBW/4a-projek-e-learning)
+- [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-perpustakaan)
+- [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-apotik)
+
 ## 🏛 Kelas 4B
 
 ### 👤 Absen
