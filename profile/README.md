@@ -169,6 +169,7 @@
 - [Absen Pertemuan 5](https://github.com/Praktikum-PBW/4b-absen-pertemuan-5)
 - [Absen Pertemuan 6](https://github.com/Praktikum-PBW/4b-absen-pertemuan-6)
 - [Absen Pertemuan 7](https://github.com/Praktikum-PBW/4b-absen-pertemuan-7)
+- [Absen Pertemuan 8](https://github.com/Praktikum-PBW/4b-absen-pertemuan-8)
 
 ### 📙 Tugas 1
 - [FARHAN SAORY	](https://github.com/Praktikum-PBW/4b-tugas-1-farhan-saory)
