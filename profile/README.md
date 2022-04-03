@@ -158,6 +158,16 @@
 
 ## 👀 Projek Kelompok
 
+![Projek Kelompok](https://github.com/Praktikum-PBW/.github/blob/main/organizing-projects.gif)
+
+### List Anggota Kelompok
+
+| Kelompok 1 (Kereta Api) | Kelompok 2 (Kantin) | Kelompok 3 (Tour & Travel) | Kelompok 4 (Bioskop) | Kelompok 5 (Inventory) | Kelompok 6 (E-Learning) | Kelompok 7 (Perpustakaan) | Kelompok 8 (Apotik) |
+|-------------------------|---------------------|----------------------------|----------------------|------------------------|-------------------------|---------------------------|---------------------|
+| Annabella               | Chintya             | Ali                        | Anisa F              | Anisah                 | Almira                  | Vito                      | Asyifa              |
+| Alifa                   | Adrian Aufa         | Alto                       | Anisa N              | Andriani Nurian        | Jovanka                 | Adrian Yoga               | Adrian W            |
+| Adi                     | Afifah Nur          | Yohanes                    | Dede                 | Alvi Yuniar            | Anandito                | Afiva                     | Alif                |
+
 ### 📙 Tugas 7
 
 - [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-7-pemesanan-tiket-kereta-api)
