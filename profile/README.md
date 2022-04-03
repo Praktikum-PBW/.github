@@ -21,6 +21,10 @@
 - [Absen Pertemuan 6](https://github.com/Praktikum-PBW/4a-absen-pertemuan-6)
 - [Absen Pertemuan 7](https://github.com/Praktikum-PBW/4a-absen-pertemuan-7)
 - [Absen Pertemuan 8](https://github.com/Praktikum-PBW/4a-absen-pertemuan-8)
+- [Absen Pertemuan 9](https://github.com/Praktikum-PBW/4a-absen-pertemuan-9)
+- [Absen Pertemuan 10](https://github.com/Praktikum-PBW/4a-absen-pertemuan-10)
+- [Absen Pertemuan 11](https://github.com/Praktikum-PBW/4a-absen-pertemuan-11)
+- [Absen Pertemuan 12](https://github.com/Praktikum-PBW/4a-absen-pertemuan-12)
 
 ### 📙 Tugas 1
 - [AFIFAH NUR SALLAMAH](https://github.com/Praktikum-PBW/4a-tugas-1-afifah-nur-sallamah)
@@ -184,6 +188,10 @@
 - [Absen Pertemuan 6](https://github.com/Praktikum-PBW/4b-absen-pertemuan-6)
 - [Absen Pertemuan 7](https://github.com/Praktikum-PBW/4b-absen-pertemuan-7)
 - [Absen Pertemuan 8](https://github.com/Praktikum-PBW/4b-absen-pertemuan-8)
+- [Absen Pertemuan 9](https://github.com/Praktikum-PBW/4b-absen-pertemuan-9)
+- [Absen Pertemuan 10](https://github.com/Praktikum-PBW/4b-absen-pertemuan-10)
+- [Absen Pertemuan 11](https://github.com/Praktikum-PBW/4b-absen-pertemuan-11)
+- [Absen Pertemuan 12](https://github.com/Praktikum-PBW/4b-absen-pertemuan-12)
 
 ### 📙 Tugas 1
 - [FARHAN SAORY	](https://github.com/Praktikum-PBW/4b-tugas-1-farhan-saory)
