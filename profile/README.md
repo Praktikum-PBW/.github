@@ -180,6 +180,50 @@
 - [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-8-perpustakaan)
 - [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-8-apotik)
 
+### 📙 Tugas 9
+
+- [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-9-pemesanan-tiket-kereta-api)
+- [Kelompok 2](https://github.com/Praktikum-PBW/4a-projek-9-kantin)
+- [Kelompok 3](https://github.com/Praktikum-PBW/4a-projek-9-tour-travel)
+- [Kelompok 4](https://github.com/Praktikum-PBW/4a-projek-9-bioskop-online)
+- [Kelompok 5](https://github.com/Praktikum-PBW/4a-projek-9-inventory)
+- [Kelompok 6](https://github.com/Praktikum-PBW/4a-projek-9-e-learning)
+- [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-9-perpustakaan)
+- [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-9-apotik)
+
+### 📙 Tugas 10
+
+- [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-10-pemesanan-tiket-kereta-api)
+- [Kelompok 2](https://github.com/Praktikum-PBW/4a-projek-10-kantin)
+- [Kelompok 3](https://github.com/Praktikum-PBW/4a-projek-10-tour-travel)
+- [Kelompok 4](https://github.com/Praktikum-PBW/4a-projek-10-bioskop-online)
+- [Kelompok 5](https://github.com/Praktikum-PBW/4a-projek-10-inventory)
+- [Kelompok 6](https://github.com/Praktikum-PBW/4a-projek-10-e-learning)
+- [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-10-perpustakaan)
+- [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-10-apotik)
+
+### 📙 Tugas 11
+
+- [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-11-pemesanan-tiket-kereta-api)
+- [Kelompok 2](https://github.com/Praktikum-PBW/4a-projek-11-kantin)
+- [Kelompok 3](https://github.com/Praktikum-PBW/4a-projek-11-tour-travel)
+- [Kelompok 4](https://github.com/Praktikum-PBW/4a-projek-11-bioskop-online)
+- [Kelompok 5](https://github.com/Praktikum-PBW/4a-projek-11-inventory)
+- [Kelompok 6](https://github.com/Praktikum-PBW/4a-projek-11-e-learning)
+- [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-11-perpustakaan)
+- [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-11-apotik)
+
+### 📙 Tugas 12 (Final Project)
+
+- [Kelompok 1](https://github.com/Praktikum-PBW/4a-projek-12-pemesanan-tiket-kereta-api)
+- [Kelompok 2](https://github.com/Praktikum-PBW/4a-projek-12-kantin)
+- [Kelompok 3](https://github.com/Praktikum-PBW/4a-projek-12-tour-travel)
+- [Kelompok 4](https://github.com/Praktikum-PBW/4a-projek-12-bioskop-online)
+- [Kelompok 5](https://github.com/Praktikum-PBW/4a-projek-12-inventory)
+- [Kelompok 6](https://github.com/Praktikum-PBW/4a-projek-12-e-learning)
+- [Kelompok 7](https://github.com/Praktikum-PBW/4a-projek-12-perpustakaan)
+- [Kelompok 8](https://github.com/Praktikum-PBW/4a-projek-12-apotik)
+
 ## 🏛 Kelas 4B
 
 ### 👤 Absen
