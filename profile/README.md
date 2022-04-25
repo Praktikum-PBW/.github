@@ -384,6 +384,17 @@
 
 ## 👀 Projek Kelompok
 
+![Projek Kelompok](https://github.com/Praktikum-PBW/.github/blob/main/organizing-projects.gif)
+
+### List Anggota Kelompok
+
+| Kelompok 1 (Perpustakaan) | Kelompok 2 (Pemesanan Tiket Kereta) | Kelompok 3 (Kantin) | Kelompok 4 (Pemesanan Tiket Pesawat) | Kelompok 5 (Tour & Travel) | Kelompok 6 (E-learning)  | Kelompok 7 (Reservasi Hotel) | Kelompok 8 (Evoting) |
+|---------------------------|-------------------------------------|---------------------|--------------------------------------|----------------------------|--------------------------|------------------------------|----------------------|
+| Faiz                      | Delta                               | Cahya Diantoni      | Chendra Muhammad A S                 | Fajri                      | Ardianto Nugroho         | Damar                        | Annisa Rahma Putri   |
+| Iqbal                     | Dela                                | Fathimatuz Zahra    | Dwi Putra Ardiansyah                 | Bayu                       | Diki Candra Permana Yuda | Farhan                       | Irna Purnahasanah    |
+| arfan                     | Fajar                               | Irfan Maulana       | Daniel Naibaho                       | Elvin                      | Fadhillah Ramadhan       | Ilham                        | Assyifa Khalif       |
+|                           |                                     |                     |                                      |                            | Indira Nur Amalia        |                              |                      |
+
 ### 📙 Tugas 7
 
 - [Kelompok 1](https://github.com/Praktikum-PBW/4b-projek-7-perpustakaan)
