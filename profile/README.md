@@ -388,7 +388,7 @@
 
 ### List Anggota Kelompok
 
-| Kelompok 1 (Perpustakaan) | Kelompok 2 (Pemesanan Tiket Kereta) | Kelompok 3 (Kantin) | Kelompok 4 (Pemesanan Tiket Pesawat) | Kelompok 5 (Tour & Travel) | Kelompok 6 (E-learning)  | Kelompok 7 (Reservasi Hotel) | Kelompok 8 (Evoting) |
+| Kelompok 1 (Perpustakaan) | Kelompok 2 (Pemesanan Tiket Kereta) | Kelompok 3 (Kantin) | Kelompok 4 (Pemesanan Tiket Pesawat) | Kelompok 5 (Tour & Travel) | Kelompok 6 (E-learning)  | Kelompok 8 (Reservasi Hotel) | Kelompok 7 (Evoting) |
 |---------------------------|-------------------------------------|---------------------|--------------------------------------|----------------------------|--------------------------|------------------------------|----------------------|
 | Faiz                      | Delta                               | Cahya Diantoni      | Chendra Muhammad A S                 | Fajri                      | Ardianto Nugroho         | Damar                        | Annisa Rahma Putri   |
 | Iqbal                     | Dela                                | Fathimatuz Zahra    | Dwi Putra Ardiansyah                 | Bayu                       | Diki Candra Permana Yuda | Farhan                       | Irna Purnahasanah    |
